@@ -1,7 +1,7 @@
 # Paper replication PhD project:
 Leskovec, J., Huttenlocher, D. P. & Kleinberg, J. M. (2010). Signed networks in social media.. In E. D. Mynatt, D. Schoner, G. Fitzpatrick, S. E. Hudson, W. K. Edwards & T. Rodden (eds.), CHI (p./pp. 1361-1370), : ACM. ISBN: 978-1-60558-929-9
 
-# My role
+## My role
 This repository was created as a mutual effort by multiple students in the Network Science PhD program at the Central European University.
 
 I contributed to the project by the following code:
