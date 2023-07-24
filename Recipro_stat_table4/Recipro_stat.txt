@@ -1,0 +1,6 @@
+P(p|p)= 5014, fraction= 0.9453242835595776
+P(n|p)= 290, fraction= 0.05467571644042232
+P(p|n)= 386, fraction= 0.7095588235294118
+P(n|n)= 158, fraction= 0.29044117647058826
+Total Edges=2924.0
+Discrepencies/Errors = 29.0
