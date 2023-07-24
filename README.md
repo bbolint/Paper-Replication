@@ -1,6 +1,13 @@
 # Paper replication PhD project:
 Leskovec, J., Huttenlocher, D. P. & Kleinberg, J. M. (2010). Signed networks in social media.. In E. D. Mynatt, D. Schoner, G. Fitzpatrick, S. E. Hudson, W. K. Edwards & T. Rodden (eds.), CHI (p./pp. 1361-1370), : ACM. ISBN: 978-1-60558-929-9
 
+# My role
+This repository was created as a mutual effort by multiple students in the Network Science PhD program at the Central European University.
+
+I contributed to the project by the following code:
+- src/Print Figure 2.ipynb (recreating Figure 2 of the original paper)
+- src/receptive_generative_baselines.ipynb (calculate baselines for receptive and generative vertices)
+- src/wikipedia_triads_sequential_edgelist.ipynb (create edgelist from Wikipedia dataset)
 
 ## Dataset
 We will create networks using three datasets (stored in data/raw):
